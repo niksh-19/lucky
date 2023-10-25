@@ -1,2 +1,1 @@
 # lucky
-open(my)
