@@ -1,0 +1,2 @@
+no. of alphabets:  486
+instance of numbers:  1

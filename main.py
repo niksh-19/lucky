@@ -7,5 +7,5 @@ for x in data:
         y.append(x)
     elif x.isdigit():
         z.append(x)
-print(len(y)) 
-print(len(z))
+print("no. of alphabets: ",len(y)) 
+print("instance of numbers: ",len(z))
